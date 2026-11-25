@@ -8,4 +8,5 @@ if average >= 50:
 	print("Result: Pass")
 else:
 	print("Result: Fail")
+print("Highest mark: ", max(mark1, mark2, mark3))
 
